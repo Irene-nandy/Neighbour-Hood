@@ -3,7 +3,7 @@
 This is a web application that allows users to join neighborhoods, create new neighborhoods, delete hoods, update and create profiles.
 Users can communicate to other members in the hoods they join.
 
-**Users must log in with credible emails**
+## LiveLink ==> 
 
 ## User Stories
 These are the behaviors/features that the application implements for use by a user.
@@ -16,6 +16,7 @@ Users would like to:
 * Create Posts that will be visible to everyone in my neighborhood.
 * Change My neighborhood when I decide to move out.
 * Only view details of a single neighborhood.
+**Users must log in with credible emails**
 
 ## Admin Abilities
 These are the behaviours/features that the application implements for use by the admin.
