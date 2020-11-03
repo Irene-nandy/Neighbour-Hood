@@ -71,7 +71,7 @@ Admin should:
 ## Testing the Application
 * To run the tests for the class files:
 
-        $ python3.6 manage.py test mtaa
+        $ python3.6 manage.py test Neighbour-Hood
 
 ## Technologies Used
 * Python3.6
